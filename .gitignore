@@ -105,6 +105,7 @@ venv.bak/
 
 # IDEs
 .vscode
+.idea
 
 # venv name
 app/
